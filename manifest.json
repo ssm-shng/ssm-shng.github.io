@@ -1,0 +1,20 @@
+{
+    "name": "School Schedule Manager",
+    "short_name": "SSM",
+    "start_url": ".",
+    "display": "standalone",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "favicon.svg",
+            "sizes": "any",
+            "type": "image/svg+xml"
+        },
+        {
+            "src": "favicon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
